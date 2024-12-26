@@ -9,3 +9,8 @@ new_str1, new_str2 = swap_first_n_chars(str1, str2, n)
 
 print(f"Modified first string: {new_str1}")
 print(f"Modified second string: {new_str2}")
+
+#the input:
+#hello
+#world
+#2
