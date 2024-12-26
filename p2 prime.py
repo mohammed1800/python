@@ -32,3 +32,5 @@ else:
 print(f"Prime numbers till {n}: {primes_till_n(n)}")
 
 print(f"First {n} prime numbers: {first_n_primes(n)}")
+
+#the input 7 or 4 or any number
