@@ -11,3 +11,7 @@ str2 = input("Enter the second string: ")
 
 result = find_occurrences(str1, str2)
 print(result)
+
+#the input:
+#hihihi
+#hi
