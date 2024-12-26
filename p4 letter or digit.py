@@ -18,3 +18,4 @@ elif char.isdigit():
     print(f"The digit name is: {digit_to_text(char)}")
 else:
     print("The character is a special character.")
+#the input number or letter like e or 3
