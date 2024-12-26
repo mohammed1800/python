@@ -24,3 +24,10 @@ print(f"String after removing first occurrence: {remove_first_occurrence(string,
 
 char_to_remove_all = input("Enter the character to remove (all occurrences): ")
 print(f"String after removing all occurrences: {remove_all_occurrences(string, char_to_remove_all)}")
+
+#the input: hello 
+# l
+# e
+# o
+# l
+# h
