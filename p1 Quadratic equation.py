@@ -17,3 +17,5 @@ else:
     imaginary_part = (-discriminant)**0.5 / (2 * a)
     print(f"x1 = {real_part} + {imaginary_part}i")
     print(f"x2 = {real_part} - {imaginary_part}i")
+
+#the input 1 1 -2
